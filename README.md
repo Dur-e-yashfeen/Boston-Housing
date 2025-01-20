@@ -1,4 +1,4 @@
-# #🏡 Boston Housing Price Prediction
+#🏡 Boston Housing Price Prediction
 
 This project demonstrates how to build a linear regression model to predict housing prices using the Boston Housing dataset.
 
@@ -24,10 +24,6 @@ pip install pandas numpy scikit-learn
 ## Dataset
 
 The dataset used in this project is a CSV file containing housing data. Make sure to replace the path of the dataset in the code with the actual path to your CSV file:
-
-```python
-df = pd.read_csv('./dataset/HousingData.csv')
-```
 
 ## Code Overview
 
